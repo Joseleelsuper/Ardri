@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"tafl.control"},{"l":"tafl.excepcion"},{"l":"tafl.modelo"},{"l":"tafl.textui"},{"l":"tafl.util"}];updateSearchResults();
