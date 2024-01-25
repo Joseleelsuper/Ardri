@@ -35,7 +35,6 @@ cls
 @echo on
 java -cp .\bin;.\lib\tafl-gui-lib-2.0.0.jar tafl.textui.Tafl Brandubh
 
-:: Pausar la consola para poder ver los resultados, 
-:: evitando que se cierre la consola incluso si se cierra la interfaz gráfica
+:: Pausar la consola para poder ver los resultados.
 :pauses
 pause
