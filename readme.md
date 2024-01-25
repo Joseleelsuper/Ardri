@@ -1,5 +1,5 @@
 # Resumen del proyecto
-Se trata de un projecto en la asignatura de 2º Grado, **Metodología de la programación**, de la [**Universidad de Burgos**](https://www.ubu.es/) (UBU).  
+Se trata de un proyecto en la asignatura de 2º Grado, **Metodología de la programación**, de la [**Universidad de Burgos**](https://www.ubu.es/) (UBU).  
 Los juegos se llaman [Ardri](https://arcana-artesania.es/producto/ard-ri/) y [Brandubh](https://arcana-artesania.es/producto/brandubh/). Se tratan de dos juegos de mesa Vikingos.  
 El objetivo era crear un videojuego utilizando **Java** y **Eclipse**.
 El proyecto se puede ejecutar en modo texto, aunque en un futuro se intentará crear el modo gráfico de cero.
