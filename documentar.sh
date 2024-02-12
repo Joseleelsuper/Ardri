@@ -7,7 +7,7 @@
 #  @autor: José Gallardo Caballero
 #  @fecha: 26/11/2023
 #  @versión: 1.0
-#  @licencia: BY-NC-SA
+#  @licencia: MIT
 # 
 
 # Documentar el juego

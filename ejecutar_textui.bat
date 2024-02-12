@@ -5,7 +5,7 @@
 ::  @author: José Gallardo Caballero
 ::  @date: 26/11/2023
 ::  @version: 1.0
-::  @license: BY-NC-SA
+::  @license: MIT
 ::
 
 :: Quita información no necesaria de la consola
