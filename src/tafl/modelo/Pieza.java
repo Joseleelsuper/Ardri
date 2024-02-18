@@ -9,7 +9,7 @@ import tafl.util.Color;
  * Clase Pieza Representa una pieza del juego. Una pieza tiene un tipo y un
  * color. El tipo de la pieza puede ser: Rey, Defensor o Atacante.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/10/25
  */

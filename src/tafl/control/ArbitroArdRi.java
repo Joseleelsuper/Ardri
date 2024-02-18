@@ -14,7 +14,7 @@ import tafl.util.Coordenada;
  * Clase ArbitroArdRi. Árbitro del juego ArdRi. Se encarga de controlar el
  * juego. Funciones específicas del juego ArdRi.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/11/30
  */

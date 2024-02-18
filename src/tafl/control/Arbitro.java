@@ -12,7 +12,7 @@ import tafl.util.Color;
  * encargado de controlar el juego. Se encarga de comprobar si un movimiento es
  * legal, de realizarlo, de comprobar si se ha ganado, etc.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/11/30
  */

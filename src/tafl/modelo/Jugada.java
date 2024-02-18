@@ -6,7 +6,7 @@ import tafl.util.Sentido;
 /**
  * Clase Jugada, representa si una jugada es válida o no.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/10/25
  * 

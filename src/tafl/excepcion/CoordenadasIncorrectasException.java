@@ -5,7 +5,7 @@ package tafl.excepcion;
  * Clase CoordenadasIncorrectasException. Excepción que se lanza cuando se
  * intenta acceder a una coordenada incorrecta.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/11/30
  */

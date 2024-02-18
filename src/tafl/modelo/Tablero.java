@@ -16,7 +16,7 @@ import tafl.util.*;
  * derecha. Se numera de izquierda a derecha y en sentido descendente de arriba
  * a abajo.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/10/25
  */

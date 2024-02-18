@@ -24,7 +24,7 @@ import tafl.util.Traductor;
  * La programación en este código sigue más el paradigma de programación
  * estructurada en mayor medida que la orientación a objetos.
  *
- * @author <a href="rmartico@ubu.es">Raúl Marticorena</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @since 1.0
  * @version 2.0
  * @see tafl.excepcion
@@ -64,8 +64,8 @@ public class Tafl {
 	 * Método raíz.
 	 * 
 	 * @param args argumentos de entrada
-	 * @throws TipoArbitroException 
-	 * @throws CoordenadasIncorrectasException 
+	 * @throws TipoArbitroException si el tipo de árbitro solicitado no está entre los permitidos.
+	 * @throws CoordenadasIncorrectasException si se intenta acceder a celdas con coordenadas incorrectas.
 	 */
 	public static void main(String[] args) throws TipoArbitroException, CoordenadasIncorrectasException {
 		try {
@@ -258,7 +258,7 @@ public class Tafl {
 	 * 
 	 * @param jugada jugada
 	 * @return true si es legal, false en caso contrario
-	 * @throws CoordenadasIncorrectasException 
+	 * @throws CoordenadasIncorrectasException si se intenta acceder a celdas con coordenadas incorrectas.
 	 */
 	private static boolean esLegal(Jugada jugada) throws CoordenadasIncorrectasException {
 		return arbitro.esMovimientoLegal(jugada);
@@ -414,7 +414,7 @@ public class Tafl {
 	 * Realizar las capturas correspondienes al último movimiento.
 	 * 
 	 * @param jugada jugada
-	 * @throws CoordenadasIncorrectasException 
+	 * @throws CoordenadasIncorrectasException si se intenta acceder a celdas con coordenadas incorrectas. 
 	 * @since 2.0
 	 */
 	private static void realizarCapturas(Jugada jugada) throws CoordenadasIncorrectasException {

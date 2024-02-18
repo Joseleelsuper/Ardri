@@ -5,7 +5,7 @@ package tafl.util;
  * Clase Coordenada. Almacena el valor de fila y columna relativo a la posición
  * de la celda en un tablero.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/10/25
  * 

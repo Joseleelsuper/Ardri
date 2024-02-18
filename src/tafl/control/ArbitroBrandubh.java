@@ -14,7 +14,7 @@ import tafl.util.TipoPieza;
  * Clase ArbitroBrandubh. Árbitro del juego Brandubh. Se encarga de controlar el
  * juego. Funciones específicas del juego Brandubh.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/11/30
  */

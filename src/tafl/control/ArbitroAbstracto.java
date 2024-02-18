@@ -20,12 +20,15 @@ import tafl.util.TipoCelda;
  * controlar el juego. Se encarga de comprobar si un movimiento es legal, de
  * realizarlo, de comprobar si se ha ganado, etc.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/11/30
  */
 public abstract class ArbitroAbstracto implements Arbitro 
 {
+	/**
+	 * Pila que almacena el historial de jugadas.
+	 */
 	private Stack<Registro> historial;
 	/**
 	 * Número de filas del tablero. No se puede modificar.

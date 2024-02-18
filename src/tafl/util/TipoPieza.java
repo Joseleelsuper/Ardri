@@ -5,7 +5,7 @@ package tafl.util;
  * Clase TipoPieza. A cada pieza se le asigna un rol, que será aliado, enemigo o
  * rey.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/10/25
  */

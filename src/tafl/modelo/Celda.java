@@ -9,7 +9,7 @@ import tafl.util.Color;
 /**
  * Clase Celda, representa una celda del tablero.
  * 
- * @author <a href="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2023/10/25
  */
