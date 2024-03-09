@@ -46,13 +46,13 @@ Puede buscar la versión que prefieras en [este enlace](https://www.oracle.com/j
 # Ejecutar el juego
 ## Para Windows
 
-Una vez instalados los [Requerimientos](#requerimientos), debe ejecutar `ejecutar_textui.bat` para el modo texto.
-Le pedirá que elija entre ejecutar `Brandubh` o `Ardri`. Después de elegir uno, le saldrán las instrucciones en la salida de comandos y podrá jugar libremente.
+Una vez instalados los [Requerimientos](#requerimientos), debe ejecutar `compilar.bat` para crear el directorio **bin** y después `ejecutar_textui.bat` para el modo texto.
+Le saldrán las instrucciones en la salida de comandos y podrá jugar libremente.
 
 ## Para Linux
 
-Una vez instalados los [Requerimientos](#requerimientos), debe ejecutar `ejecutar_textui.sh` para el modo texto.
-Le pedirá que elija entre ejecutar `Brandubh` o `Ardri`. Después de elegir uno, le saldrán las instrucciones en la salida de comandos y podrá jugar libremente.
+Una vez instalados los [Requerimientos](#requerimientos), debe ejecutar `compilar.sh` para crear el directorio **bin** y después `ejecutar_textui.sh` para el modo texto.
+Le saldrán las instrucciones en la salida de comandos y podrá jugar libremente.
 
 # Contribuciones
 
