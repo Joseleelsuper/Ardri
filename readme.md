@@ -14,6 +14,10 @@ Es necesario tener instalado [jdk-20.0.1_windows-x64_bin](https://download.oracl
 
 Es necesario tener instalado [jdk-20.0.1_linux-x64_bin](https://download.oracle.com/java/20/archive/jdk-20.0.1_linux-x64_bin.deb) o superior para poder ejecutarlo.
 
+## Para MacOS
+
+Es necesario tener instalado [jdk-20.0.1_macos-x64_bin](https://download.oracle.com/java/20/archive/jdk-20.0.1_macos-x64_bin.dmg) o superior para poder ejecutarlo.
+
 ## Otros
 
 Puede buscar la versión que prefieras en [este enlace](https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html)
@@ -50,6 +54,11 @@ Una vez instalados los [Requerimientos](#requerimientos), debe ejecutar `compila
 Le saldrán las instrucciones en la salida de comandos y podrá jugar libremente.
 
 ## Para Linux
+
+Una vez instalados los [Requerimientos](#requerimientos), debe ejecutar `compilar.sh` para crear el directorio **bin** y después `ejecutar_textui.sh` para el modo texto.
+Le saldrán las instrucciones en la salida de comandos y podrá jugar libremente.
+
+## Para MacOS
 
 Una vez instalados los [Requerimientos](#requerimientos), debe ejecutar `compilar.sh` para crear el directorio **bin** y después `ejecutar_textui.sh` para el modo texto.
 Le saldrán las instrucciones en la salida de comandos y podrá jugar libremente.
