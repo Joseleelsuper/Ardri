@@ -2,3 +2,4 @@ bin/
 doc/
 .vscode/
 .settings/
+MANIFEST.mf
